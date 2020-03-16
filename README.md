@@ -11,5 +11,5 @@ Bank of Sanky app keeps track of customer’s balance by utilizing Android Share
 
 Bank of Sanky app security is implemented by requiring a customer to provide valid username and password. After three unsuccessful logins, the application shuts down.
 
-Bank of Sanky app is created with Android Studio to run on all Android phones with at least Android 4.03 (ice cream sandwich) installed.
+Bank of Sanky app is created with Android Studio to run on all Android phones.
 
