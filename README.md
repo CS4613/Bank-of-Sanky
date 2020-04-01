@@ -13,3 +13,4 @@ Bank of Sanky app security is implemented by requiring a customer to provide val
 
 Bank of Sanky app is created with Android Studio to run on all Android phones.
 
+Timeline: The estimated date of completion is mid of April.
